@@ -11,7 +11,7 @@ For kali linux i changed only the Destop variables and it worked
 1. Install gwsl form Microsoft store and start it
 2. Install clean ubuntu, ubuntu-22.04 or kali-linux from microsoft Store 
 3. Start WSL, create User and set password
-4. su
+4. sudo -s
 5. copy script or make a new file with the code inside
 6. chmod +x ./wsl_ubuntu_install.sh
 7. ./wsl_ubuntu_install.sh
